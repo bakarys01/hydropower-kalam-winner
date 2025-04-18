@@ -112,7 +112,7 @@ Due to GitHub file size limits, raw CSV/XLSX files are **not** included here. Pl
 ---
 
 ## 📈 Performance Metrics
-- **Public Leaderboard RMSE:** your public score  
+- **Public Leaderboard RMSE:** 5.454981323  
 - **Private Leaderboard RMSE:** 4.312706649  
 - **Ensemble Improvement:** Bayesian weighting improved RMSE by ~4.2%
 
